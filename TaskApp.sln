@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp", "TaskApp\TaskApp.csproj", "{7BC5E6BB-9303-42B1-9A84-3C77182BC14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp.Core", "TaskApp.Core\TaskApp.Core.csproj", "{90E767FD-38FC-41F0-AB5F-A30ACEE0444C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC5E6BB-9303-42B1-9A84-3C77182BC14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC5E6BB-9303-42B1-9A84-3C77182BC14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC5E6BB-9303-42B1-9A84-3C77182BC14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC5E6BB-9303-42B1-9A84-3C77182BC14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E767FD-38FC-41F0-AB5F-A30ACEE0444C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E767FD-38FC-41F0-AB5F-A30ACEE0444C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E767FD-38FC-41F0-AB5F-A30ACEE0444C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E767FD-38FC-41F0-AB5F-A30ACEE0444C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC383FED-41BF-4666-915F-3DC22049F7C3}
+	EndGlobalSection
+EndGlobal

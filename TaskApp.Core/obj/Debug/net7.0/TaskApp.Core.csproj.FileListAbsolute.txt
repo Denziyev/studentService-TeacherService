@@ -1,0 +1,12 @@
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\bin\Debug\net7.0\TaskApp.Core.deps.json
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\bin\Debug\net7.0\TaskApp.Core.dll
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\bin\Debug\net7.0\TaskApp.Core.pdb
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.AssemblyInfo.cs
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.dll
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\refint\TaskApp.Core.dll
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\TaskApp.Core.pdb
+C:\Users\VO\Desktop\TaskApp\TaskApp.Core\obj\Debug\net7.0\ref\TaskApp.Core.dll
